@@ -13,4 +13,4 @@ export type {
 } from './types.js';
 
 // Evaluators
-export { structural } from './evaluators/index.js';
+export { structural, guardrails } from './evaluators/index.js';
